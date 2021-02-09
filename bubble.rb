@@ -1,7 +1,7 @@
 ar = [15, 16, 6, 8, 5]
 len = ar.length
-for i in 0...len - 1
-  for j in 0...(len - 1) - i
+for i in (0...len - 1)
+  for j in (0...(len - 1) - i)
     if ar[j] > ar[j + 1]
       ar[j], ar[j + 1] = ar[j + 1], ar[j]
     end
