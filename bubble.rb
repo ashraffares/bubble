@@ -4,7 +4,7 @@ len = ar.length
   (0...(len - 1) - i).each do |j|
     if ar[j] > ar[j + 1]
       ar[j], ar[j + 1] = ar[j + 1], ar[j]
-    end
+    end   
   end
 end
 # Second version
