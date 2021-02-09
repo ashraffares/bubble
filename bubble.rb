@@ -8,19 +8,20 @@ for i in 0...len - 1
         end
     end
 end
-#Second version
+# Second version
 def bubble_sort(array)
-    loop do
+  loop do
       sorted = false
-      (array.length-1).times do |i|
-        if array[i] > array[i+1]
-          array[i], array[i+1] = array[i+1], array[i]
+      (array.length - 1).times do |i|
+        if array[i] > array[i + 1]
+          array[i], array[i + 1] = array[i + 1], array[i]
           sorted = true
         end
       end
-      break if not sorted
+      break unless sorted
     end
     array
   end
-  unsorted_array = [5,2,100,101,6,1]
+  unsorted_array = [5, 2, 100, 101, 6, 1]
   p bubble_sort(unsorted_array)
+  
