@@ -1,4 +1,3 @@
-
 ar = [15, 16, 6, 8, 5]
 len = ar.length
 for i in 0...len - 1
@@ -19,8 +18,9 @@ def bubble_sort(array)
         end
       end
       break unless sorted
-    end
+  end
   array
 end
-  unsorted_array = [5, 2, 100, 101, 6, 1]
-  p bubble_sort(unsorted_array)
+
+unsorted_array = [5, 2, 100, 101, 6, 1]
+p bubble_sort(unsorted_array)
