@@ -8,15 +8,14 @@ Technologies Ruby
 
 
 👤 Author1
-
-twitter:@Fares09301164
-GitHub: https://github.com/ashraffares/http-ashraffares.github.io-
-linkedin:https://www.linkedin.com/in/fares-ashraf-382a35176/
+-twitter:@Fares09301164
+-GitHub: https://github.com/ashraffares/http-ashraffares.github.io-
+-linkedin:https://www.linkedin.com/in/fares-ashraf-382a35176/
 
 👤 Author2
-twitter:@MandeIn
-GitHub: @MandeIn
-linkedin:Matija Maksimovic
+-twitter:@MandeIn
+-GitHub: @MandeIn
+-linkedin:Matija Maksimovic
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
