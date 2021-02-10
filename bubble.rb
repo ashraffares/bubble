@@ -2,22 +2,20 @@ ar = [15, 16, 6, 8, 5]
 len = ar.length
 (0...len - 1).each do |i|
   (0...(len - 1) - i).each do |j|
-    if ar[j] > ar[j + 1]
-      ar[j], ar[j + 1] = ar[j + 1], ar[j]
-    end
+    ar[j], ar[j + 1] = ar[j + 1], ar[j] if ar[j] > ar[j + 1]
   end
 end
 # Second version
 def bubble_sort(array)
   loop do
     sorted = false
-      (array.length - 1).times do |i|
-        if array[i] > array[i + 1]
-          array[i], array[i + 1] = array[i + 1], array[i]
-          sorted = true
-        end
+    (array.length - 1).times do |i|
+      if array[i] > array[i + 1]
+        array[i], array[i + 1] = array[i + 1], array[i]
+        sorted = true
       end
-      break unless sorted
+    end
+    break unless sorted
   end
   array
 end
