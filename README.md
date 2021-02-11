@@ -14,9 +14,6 @@ Lets welcome one more code in the line of many more to come during my time here 
 -Matija Maksimovic
 
 
-My website was created with fluidity and user interaction in mind.
-
-
 please enjoy!
 
 ## Built With
