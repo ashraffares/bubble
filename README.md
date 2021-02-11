@@ -25,32 +25,6 @@ please enjoy!
 **First ensure the assets folder is set in a location which is in the same folder as the other files. The Index and CSS should also be easily accessible. All the content in this project was linked to offline files in the assets folder.**
 
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-Online website hoster ie. GoDaddy or similar
-
-### Setup
-
-Upload all files to the hosting service
-
-### Install
-
-Make sure each file is named correctly and accessible
-
-### Usage
-
-This website can be ran multiple times
-
-### Run tests
-
-Use a code editor to make any changes or use your browser to access the website offline
-
-### Deployment
-
-
-
 ## Authors
 
 👤 **Author1**
@@ -68,7 +42,7 @@ Use a code editor to make any changes or use your browser to access the website 
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues](https://github.com/Mandeln/GOLUB/issues).
+Feel free to check the [issues](https://github.com/ashraffares/bubble/issues).
 
 ## Show your support
 
