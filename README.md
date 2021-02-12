@@ -3,7 +3,7 @@
 
 # Bubble
 
-> This is the readMe for the Ruby first week Project. It is a small program for sorting using the bubble sort method.
+> This is the readMe for the Ruby first week Project. It is a small program for sorting using Ruby's enumerable methods.
 
 ![screenshot](./screen.png)
 
